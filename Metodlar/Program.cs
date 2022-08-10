@@ -27,7 +27,7 @@ SepetManager sepetManager = new SepetManager();
 sepetManager.Ekle(Urun1);
 
 
-sepetManager.Ekle2("Armut", "yeşil armut", 15;
+sepetManager.Ekle2("Armut", "yeşil armut", 15);
 sepetManager.Ekle2("elma", "yeşil elma", 12);
 sepetManager.Ekle2("karpuz", "diayrbakır karpuzu", 12);
 
