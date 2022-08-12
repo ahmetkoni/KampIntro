@@ -9,6 +9,7 @@ namespace Dictionary
     class MyDictionary<T>
     {
         T[] items;
+        //ctor yazarak public class adıyla aynı eşkilde geitrilir.
         public MyDictionary() { 
             items = new T[0]; 
         }
